@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571310969236",
+    "project_id": "springapi-a2648",
+    "storage_bucket": "springapi-a2648.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571310969236:android:d6312bf8cff8f6738d3f81",
+        "android_client_info": {
+          "package_name": "com.example.mcommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuYv47Xoa6BhHoertIujUps4ox4RyPoWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
